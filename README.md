@@ -31,12 +31,43 @@ En desarrollo 🛠️ — siempre abierto a mejoras y nuevas funcionalidades.
 
 Sigue estos pasos para levantar el proyecto en tu máquina local usando XAMPP:
 
-Instalar XAMPP
+** Instalar XAMPP **
 
-Descarga e instala XAMPP desde https://www.apachefriends.org
+1️⃣ Descarga e instala XAMPP desde https://www.apachefriends.org
 
-Asegúrate de iniciar Apache y MySQL desde el panel de control 🟢
+2️⃣ Asegúrate de iniciar Apache y MySQL desde el panel de control 🟢
 
-Descargar el proyecto
+3️⃣Descargar el proyecto
 
-Clona este repositorio o descarga el ZIP y descomprímelo.
+4️⃣ Clona este repositorio o descarga el ZIP y descomprímelo.
+
+➡️ Copia la carpeta del proyecto dentro de la carpeta htdocs de XAMPP (C:\xampp\htdocs\ en Windows) 📂
+
+**Configurar la base de datos**
+
+📩 Abre http://localhost/phpmyadmin
+
+🗄️Crea una nueva base de datos (por ejemplo: mi_portal_educativo) 
+
+**Si se incluye un archivo .sql, impórtalo en esta base de datos**
+
+🛠 Ajustar wp-config.php
+
+Dentro de la carpeta del proyecto, abre **wp-config.php**
+
+➡️Cambia los datos de conexión a la base de datos:🗄️
+
+__define('DB_NAME', 'mi_portal_educativo');__
+__define('DB_USER', 'root');__
+__define('DB_PASSWORD', '');__
+__define('DB_HOST', 'localhost');__
+
+
+**Acceder al sitio**
+
+🚀Abre tu navegador y entra a:
+
+➡️ http://localhost/nombre-de-tu-carpeta
+
+
+😉Listo! 🎉 Ahora podés navegar por el portal educativo y probar todas las funcionalidades.
