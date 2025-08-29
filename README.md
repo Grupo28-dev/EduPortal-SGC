@@ -71,3 +71,17 @@ __define('DB_HOST', 'localhost');__
 
 
 😉Listo! 🎉 Ahora podés navegar por el portal educativo y probar todas las funcionalidades.
+
+## Integrantes 
+
+|Alumnos|
+| --------------------------------- |  
+| 👩 Melina Yangüez                |
+| 👩 Andrea Jimena Del Valle Palma |
+| 👩 Guadalupe Aravena             |
+| 👦 Nahuel Cufre                  |
+
+## Docentes
+| -------------------------------|
+| 👩 Viviana Guillén             |               
+| 👦 Mariano Molina              |  
