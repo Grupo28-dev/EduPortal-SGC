@@ -81,7 +81,7 @@ __define('DB_HOST', 'localhost');__
 | 👩 Guadalupe Aravena             |
 | 👦 Nahuel Cufre                  |
 
-## Docentes
-| -------------------------------|
-| 👩 Viviana Guillén             |               
-| 👦 Mariano Molina              |  
+|Docentes|
+| --------------------------------- |  
+| 👩 Viviana Guillén               |
+| 👦 Mariano Molina |
